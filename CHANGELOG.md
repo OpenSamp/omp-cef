@@ -1,4 +1,21 @@
 
+## [1.2.1](https://github.com/aurora-mp/omp-cef/compare/v1.2.0..v1.2.1) (2026-06-03)
+
+### 🧹 Chore
+
+- *(client)* Disable draw if game is paused - ([6bee79f](https://github.com/aurora-mp/omp-cef/commit/6bee79fd33144a27d1b028536244058a2eeba4fe))
+- *(client)* Some improvements/fixes #17 - ([7a95408](https://github.com/aurora-mp/omp-cef/commit/7a95408f4e781ae3d34d4ecb627ff78c9d5bb3f0))
+- *(runtime)* Disable draw if game is paused - ([ce6e4bd](https://github.com/aurora-mp/omp-cef/commit/ce6e4bd641ae032861c41a22894788b894917ca6))
+- Bump version to 1.3.0 - ([7c29e0f](https://github.com/aurora-mp/omp-cef/commit/7c29e0f2d52ce8743860b27a96ee061cf128c41b))
+
+## New Contributors ❤️
+
+* @bssth made their first contribution
+* @ made their first contribution
+* @kyro95 made their first contribution
+
+
+
 ## [1.2.0](https://github.com/aurora-mp/omp-cef/compare/v1.1.0..v1.2.0) (2026-02-19)
 
 ### 🧹 Chore
